@@ -1,6 +1,10 @@
 # Polaroid
 
-*A utility for making `PNG` files from `.bam` files using `IGV`.*
+*A utility for making images of genomic regions using IGV.*
+
+## Introduction
+
+*Polaroid* is a utility that takes a list of genomic loci and generates pileup images for each location.  This can be useful for manually vetting called mutation sites or generating training sets.
 
 ## Requirements
 
