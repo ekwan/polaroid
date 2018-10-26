@@ -44,9 +44,13 @@ Sometimes, there may be `.bam` files missing from some of the `.png` files.  Oth
 the bases might not be sorted.  In this case, increase the `DELAY` parameter in the
 configuration file.
 
+### License
+
+This project is licensed under the Apache License, Version 2.0. See LICENSE.txt for full terms and conditions.
+
 ### Authors
 
-Written by Emir Hamzaogullari, Eugene Kwan, and Michael Lawrence
+Written and copyright by Emir Hamzaogullari, Eugene Kwan, and Michael Lawrence
 
 *Massachusetts General Hospital, 2018*
 
