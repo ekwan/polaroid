@@ -46,6 +46,6 @@ configuration file.
 
 ### Authors
 
-Written by: Emir Hamzaogullari, Eugene Kwan, and Michael Lawerence
+Written by: Emir Hamzaogullari, Eugene Kwan, and Michael Lawrence
 Massachusetts General Hospital, 2018
 
